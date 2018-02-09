@@ -1,0 +1,15 @@
+credentials.json
+poloprice.py
+logic
+app.py
+orders.txt
+log.txt
+__pycache__
+log_gateio.txt
+app.py
+client_secret.json
+currencies_owned.txt
+hodl.json
+log_gateio_trades.txt
+trades.json
+trades_watch.json

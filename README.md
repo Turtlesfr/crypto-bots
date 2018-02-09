@@ -7,3 +7,4 @@ It doesn't look for opportunities. Instead, it reads a JSON of opportunities and
 ## Improvements
 * Find a better source of opportunities
 * Error handling : crashes are serious sources of loss resulting of missed sell orders
+* Making it async
